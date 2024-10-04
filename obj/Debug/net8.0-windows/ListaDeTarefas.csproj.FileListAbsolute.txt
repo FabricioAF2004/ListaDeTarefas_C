@@ -1,0 +1,16 @@
+C:\Users\Fabrício\source\repos\ListaDeTarefas\bin\Debug\net8.0-windows\ListaDeTarefas.exe
+C:\Users\Fabrício\source\repos\ListaDeTarefas\bin\Debug\net8.0-windows\ListaDeTarefas.deps.json
+C:\Users\Fabrício\source\repos\ListaDeTarefas\bin\Debug\net8.0-windows\ListaDeTarefas.runtimeconfig.json
+C:\Users\Fabrício\source\repos\ListaDeTarefas\bin\Debug\net8.0-windows\ListaDeTarefas.dll
+C:\Users\Fabrício\source\repos\ListaDeTarefas\bin\Debug\net8.0-windows\ListaDeTarefas.pdb
+C:\Users\Fabrício\source\repos\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.csproj.GenerateResource.cache
+C:\Users\Fabrício\source\repos\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrício\source\repos\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.AssemblyInfoInputs.cache
+C:\Users\Fabrício\source\repos\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.AssemblyInfo.cs
+C:\Users\Fabrício\source\repos\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Fabrício\source\repos\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.dll
+C:\Users\Fabrício\source\repos\ListaDeTarefas\obj\Debug\net8.0-windows\refint\ListaDeTarefas.dll
+C:\Users\Fabrício\source\repos\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.pdb
+C:\Users\Fabrício\source\repos\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.genruntimeconfig.cache
+C:\Users\Fabrício\source\repos\ListaDeTarefas\obj\Debug\net8.0-windows\ref\ListaDeTarefas.dll
+C:\Users\Fabrício\source\repos\ListaDeTarefas\obj\Debug\net8.0-windows\ListaDeTarefas.ListaDeTarefas.resources
